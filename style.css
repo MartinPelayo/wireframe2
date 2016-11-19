@@ -3,32 +3,81 @@ body {
 }
 
 #main {
-  background-color: grey;
+  background-color: ;
   width: 960px;
   margin: 0 auto;
 }
 
 #header {
-  background-color: purple;
+  background-color: ;
+  height: 150px;
 }
 #middle {
-  background-color: pink;
+  background-color: ;
 }
+
+
 #footer {
-  background-color: green;
+  background-color: ;
 }
 #left {
-  background-color: orange;
-  width: 480px;
+  width: 450px;
   float: left;
   display: inline-block;
 }
 #right {
-  background-color: blue;
-  width: 480px;
+  width: 450px;
   display: inline-block;
 }
 #big-pic {
   display:block;
+  margin: 0 auto;
+}
+
+#ingredients {
+  margin: 0 auto;
+  width: 900px;
+  background-image: url("images/list-bg.png");;
+}
+
+#girl {
+  width: 900px;
+  margin: 0 auto;
+  background-color: ;
+}
+
+#girl img {
+  float: left;
+}
+
+#header-left {
+  float:left;
+}
+
+#header-right {
+  float:right;
+}
+
+#logo {
+  float: left;
+  margin: 20px;
+}
+
+#logo {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#subheadline {
+  font-size: 8px;
+}
+
+#footer h5 {
+  text-align: center;
+}
+
+#footer img {
+  display: block;
   margin: 0 auto;
 }
