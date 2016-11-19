@@ -18,17 +18,31 @@ body {
   background-color: green;
 }
 #left {
-  background-color: orange;
-  width: 480px;
+  width: 450px;
   float: left;
   display: inline-block;
 }
 #right {
-  background-color: blue;
-  width: 480px;
+  width: 450px;
   display: inline-block;
 }
 #big-pic {
   display:block;
   margin: 0 auto;
+}
+
+#ingredients {
+  margin: 0 auto;
+  width: 900px;
+  background-image: url("images/list-bg.png");;
+}
+
+#girl {
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+#girl img {
+  float: left;
 }
