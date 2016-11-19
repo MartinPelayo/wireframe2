@@ -10,10 +10,13 @@ body {
 
 #header {
   background-color: purple;
+  height: 150px;
 }
 #middle {
   background-color: pink;
 }
+
+
 #footer {
   background-color: green;
 }
@@ -45,4 +48,12 @@ body {
 
 #girl img {
   float: left;
+}
+
+#header-left {
+  float:left;
+}
+
+#header-right {
+  float:right;
 }
